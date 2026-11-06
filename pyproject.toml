@@ -1,5 +1,5 @@
 [project]
-name = "llm-developer-project-425"
+name = "help-desk-ai"
 version = "0.1.0"
 description = "Email help-desk assistant for employees"
 readme = "README.md"
